@@ -1,0 +1,4 @@
+{
+    "version":"#{{VERSION_PLACEHOLDER}}#",
+    "commit-id":"#{{VERSION_COMMIT_ID}}#"
+}
